@@ -1,0 +1,56 @@
+{
+  "uid" : "97dcdf38fbfb0240",
+  "name" : "test_valid_login[data1]",
+  "fullName" : "TestCases.test_TC_001_Login#test_valid_login",
+  "historyId" : "f025b66b365a6910860928b49928662e",
+  "time" : {
+    "start" : 1621704384126,
+    "stop" : 1621704387682,
+    "duration" : 3556
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_TC_001_Login"
+  }, {
+    "name" : "host",
+    "value" : "Avaliths-Mac-mini.local"
+  }, {
+    "name" : "thread",
+    "value" : "22332-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_TC_001_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "['', 'secret_sauce']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97dcdf38fbfb0240.json",
+  "parameterValues" : [ "['', 'secret_sauce']" ]
+}

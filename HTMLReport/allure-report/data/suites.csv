@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 22 14:26:19 ART 2021","Sat May 22 14:26:24 ART 2021","4280","TestCases","test_TC_001_Login","","","","test_valid_login[data0]",""
+"passed","Sat May 22 14:26:24 ART 2021","Sat May 22 14:26:27 ART 2021","3556","TestCases","test_TC_001_Login","","","","test_valid_login[data1]",""
+"passed","Sat May 22 14:26:27 ART 2021","Sat May 22 14:26:31 ART 2021","3798","TestCases","test_TC_001_Login","","","","test_valid_login[data2]",""
